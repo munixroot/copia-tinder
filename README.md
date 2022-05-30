@@ -1,7 +1,7 @@
 #Clone do Tinder 🔥
 
 ##Projeto
-Projeto Realizado no curso para Desenvolvedor Web FullStack Jr do programa GoDev da [ImãLearningPlace](https://imalearningplace.com/).
+Realizado no curso para Desenvolvedor Web FullStack Jr do programa GoDev da [ImãLearningPlace](https://imalearningplace.com/).
 
 #Tecnologias
 
